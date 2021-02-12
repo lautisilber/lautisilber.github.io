@@ -8,6 +8,9 @@ github_username: lautisilber
 exclude: ['README.md']
 markdown: kramdown
 theme: jekyll-theme-cayman
+github:
+  zip_url: https://github.com/lautisilber/Labino_esp32_public/archive/1.2.zip
+  tar_url: https://github.com/lautisilber/Labino_esp32_public/archive/1.2.tar.gz
 
 # setting I added myself!
 repo_links:
