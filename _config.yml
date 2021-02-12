@@ -8,3 +8,9 @@ github_username: lautisilber
 exclude: ['README.md']
 markdown: kramdown
 theme: jekyll-theme-cayman
+
+# setting I added myself!
+repo_links:
+  labino_esp32_public:
+    name: Labino ESP32
+    url: /Labino_esp32_public
