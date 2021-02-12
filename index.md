@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: home
+title: Lauti Silber
 ---
 
-# Lauti Silber
+# Projects
